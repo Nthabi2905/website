@@ -4,7 +4,7 @@ This is a personal profile website created using HTML, CSS, and JavaScript to sh
 
 ## 🔗 Live Demo
 View the live website here:  
-👉 [https://yourusername.github.io/nthabiseng-profile](https://nthabi2905.github.io/nthabiseng-profile)
+👉 [https://nthabi2905.github.io/nthabiseng-profile](https://nthabi2905.github.io/nthabiseng-profile)
 
 ## ✨ About This Project
 This project highlights:
@@ -20,9 +20,6 @@ This project highlights:
 - [Google Fonts](https://fonts.google.com/) – Inter font
 - GitHub Pages – for deployment
 
-## 📸 Screenshots
-![Homepage Screenshot](images/screenshot1.jpg)
-![Event Gallery](images/screenshot2.jpg)
 
 ## 📬 Contact
 - Email: nthabiseng@email.com
