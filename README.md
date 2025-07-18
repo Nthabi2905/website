@@ -4,7 +4,7 @@ This is a personal profile website created using HTML, CSS, and JavaScript to sh
 
 ## 🔗 Live Demo
 View the live website here:  
-👉 [https://nthabi2905.github.io/nthabiseng-profile](https://nthabi2905.github.io/nthabiseng-profile)
+👉 [nthabi-profile.netlify.app](nthabi-profile.netlify.app)
 
 ## ✨ About This Project
 This project highlights:
